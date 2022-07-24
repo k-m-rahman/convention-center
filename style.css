@@ -157,6 +157,18 @@ pricing section styles
 }
 
 
+/* --------------------
+footer section styles
+-----------------------*/
+footer {
+    height: 280px;
+}
+
+.footer-logo {
+    width: 128px;
+    height: 40px;
+}
+
 
 /* --------------------
 Responsive styles
