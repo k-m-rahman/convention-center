@@ -119,6 +119,40 @@ top-banner styles
     right: 5px;
 }
 
+/* --------------------
+pricing section styles
+-----------------------*/
+.card-extra-style {
+    height: 550px;
+}
+
+
+.card-text-style {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 32px;
+
+}
+
+.fa-circle-check {
+    background-color: rgb(7, 82, 112);
+    color: rgb(220, 235, 249);
+    font-size: larger;
+    border-radius: 50%;
+    border: 0;
+}
+
+.button-bg {
+    background-color: rgb(247, 242, 246);
+}
+
+.button-bg:hover {
+    background-color: rgb(247, 242, 246);
+}
+
+.third-card-position {
+    top: -80px;
+}
 
 
 
@@ -172,6 +206,14 @@ Mobile device
         top: 100px;
         right: 9%;
 
+    }
+
+    /* --------------------
+        pricing section styles 
+    -----------------------*/
+
+    .third-card-position {
+        top: 0;
     }
 
 
